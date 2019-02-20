@@ -25,6 +25,6 @@
     "request": "^2.88.0"
   },
   "bin": {
-    "clone-org": "./cli.js"
+    "org-clone": "./cli.js"
   }
 }
