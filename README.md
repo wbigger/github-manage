@@ -1,3 +1,3 @@
 # github-manage
 
-Download all the repositories from an organization
+Manage all the repositories from an organization
