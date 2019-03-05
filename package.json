@@ -21,10 +21,11 @@
   },
   "homepage": "https://github.com/wbigger/github-manage#readme",
   "dependencies": {
+    "dotenv": "^6.2.0",
     "nodegit": "^0.24.1",
     "request": "^2.88.0"
   },
   "bin": {
-    "org-clone": "./cli.js"
+    "org-clone": "./issue.js"
   }
 }

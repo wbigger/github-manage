@@ -1,0 +1,60 @@
+{
+    "issueList": [
+        {
+            "title": "Create wireframes of the web pages",
+            "body": "You have to create at least one wireframe, but you can create as many wireframe you want. Consider that (probably) you will implement only one page.",
+            "labels": [
+                "design"
+            ]
+        },
+        {
+            "title": "Create index.html according to wireframe",
+            "body": "A complete and working index.html that is compliant with the wireframe.",
+            "labels": [
+                "front-end"
+            ]
+        },
+        {
+            "title": "Create style.css according to wireframe",
+            "body": "A complete and working style.css that is compliant with the wireframe.",
+            "labels": [
+                "front-end"
+            ]
+        },
+        {
+            "title": "Create data.json containing dynamic data of the page",
+            "body": "This file has to contain a *list* of object with data required to make the page dynamic.",
+            "labels": [
+                "front-end","back-end"
+            ]
+        },
+        {
+            "title": "Create app.js that makes page dynamic",
+            "body": "Create an app.js file that read a json file and, through a loop, generate the HTML elements of the page and append them in the proper place.",
+            "labels": [
+                "front-end"
+            ]
+        },
+        {
+            "title": "Create data.php that returns the same json as data.json",
+            "body": "Create an data.php file that read declare an object and assign to it all the value according to data.json. Then encode the object into a JSON string and return it.",
+            "labels": [
+                "back-end"
+            ]
+        },
+        {
+            "title": "Update the README.md with description and snapshots of your project, in English language",
+            "body": "The README.md has to contain a description of your project, written in *English*. Please add also at least a screenshot of your page that shows the implementation of the wireframe.",
+            "labels": [
+                "documentation"
+            ]
+        },
+        {
+            "title": "Upload docker-config.yml and site.conf with the proper port to support Docker",
+            "body": "You can find these file in the teacher repository. Please remember to update the port number, as told in classroom.",
+            "labels": [
+                "back-end"
+            ]
+        }
+    ]
+}
